@@ -1,2 +1,3 @@
 # Cryptocurrencies
-Unsupervised Machine Learning
+
+> (M18) In this app, we will implement the Unsupervised Machine Learning.
